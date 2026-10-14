@@ -88,7 +88,7 @@ Rotate these, **one per post**, matched to the buyer and the post:
 
 Links go in the first comment, never the post body.
 
-- **Website:** `{{website URL}}`
+- **Website:** https://doctorssurgicalsupply.com
 - **Catalogue / quote landing page:** `{{URL}}`
 - **Public email / WhatsApp:** `{{if any}}`
 - **Brand colours and fonts:** `{{hex codes, font}}` - until filled, carousels
