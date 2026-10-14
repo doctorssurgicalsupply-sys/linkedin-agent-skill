@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "total": 100,
+  "applies_to": "LinkedIn Company Page (B2B manufacturer / exporter)",
+  "note": "Twelve items. Score each honestly - most first-pass company pages land in the 30s and 40s because the page was set up once and never touched again. A page is judged by a buyer deciding whether this supplier is real, certified and still trading. Every item below is a signal toward that answer.",
+  "items": [
+    {
+      "id": "logo",
+      "points": 6,
+      "full_marks": "Square logo (400x400 or larger), legible at 60px in the feed and in comment threads, no tiny tagline text baked in, same mark as the website and catalogue.",
+      "common_loss": "Wide logo squashed into the square, white logo on white, or a photo of the factory instead of the mark."
+    },
+    {
+      "id": "cover_banner",
+      "points": 8,
+      "full_marks": "Custom 1128x191 banner with one line of positioning (what you make, for whom), a real product or factory image, and the certifications stated in text. Safe from the logo overlap on mobile.",
+      "common_loss": "Default grey, a stock skyline, or a collage of 30 instruments too small to read."
+    },
+    {
+      "id": "tagline",
+      "points": 10,
+      "full_marks": "Uses the 120 characters to say what is made, for which buyer, plus one proof point (certification, years, markets). Reads like a sentence a buyer would forward.",
+      "common_loss": "'Quality is our priority', a slogan with no product in it, or left blank."
+    },
+    {
+      "id": "about_overview",
+      "points": 12,
+      "full_marks": "First two lines (before 'see more') state product range, buyer type and the certification that de-risks the purchase. Body covers: what is made, where, quality system, export markets, OEM/private label if offered, MOQ or how to request a quote, and how to contact. Under 1,500 of the 2,000 characters.",
+      "common_loss": "Opens with the founding year and a mission statement. Nothing a procurement manager needs is above the fold."
+    },
+    {
+      "id": "specialties",
+      "points": 6,
+      "full_marks": "10-20 specialties phrased the way buyers search: product categories (dental instruments, surgical instruments, orthodontic pliers), capabilities (OEM, private label, laser marking) and standards (ISO 13485). No duplicates, no fluff words.",
+      "common_loss": "Five vague entries like 'quality', 'service', 'export'."
+    },
+    {
+      "id": "website_cta",
+      "points": 8,
+      "full_marks": "Website URL set and working (https, loads on mobile). Custom button set to the action you actually want - 'Contact us' or 'Visit website' pointed at a quote/catalogue page, not the homepage. Link destination tracked with UTM parameters.",
+      "common_loss": "Button left on the default, pointing at a homepage with no catalogue or contact form."
+    },
+    {
+      "id": "page_details",
+      "points": 6,
+      "full_marks": "Industry set to the closest medical device / medical equipment manufacturing category, company size matches reality, company type set, founded year set, every real location added (factory and offices) with a primary location chosen.",
+      "common_loss": "Only one location, wrong industry, size band that contradicts the employee count."
+    },
+    {
+      "id": "trust_signals",
+      "points": 8,
+      "full_marks": "Certifications (ISO 13485, CE, UKCA, any registrations that apply) visible in tagline, About and pinned or recent posts, each stated accurately and only for the products they cover. Trade-show attendance, export track record or distributor relationships shown where permission exists.",
+      "common_loss": "Certifications mentioned nowhere, or claimed more broadly than the certificate scope allows."
+    },
+    {
+      "id": "showcase_pages",
+      "points": 4,
+      "full_marks": "Used only when a product line has its own distinct buyer (e.g. dental vs surgical) and enough content to post to it monthly. Otherwise not used, and the main page carries both lines clearly. Product pages filled in where LinkedIn offers them for the category.",
+      "common_loss": "Three showcase pages created, each with two posts from 2023 - worse than none."
+    },
+    {
+      "id": "posting_frequency",
+      "points": 12,
+      "full_marks": "3-5 posts a week, every week, for the last eight weeks. No gap longer than ten days. Every post has a visual (photo, short video or document).",
+      "common_loss": "Bursts around trade shows, then silence. Last post over a month old reads as a supplier that may have stopped trading."
+    },
+    {
+      "id": "content_mix",
+      "points": 10,
+      "full_marks": "Across the last 12 posts: proof (QC, audits, shipments), product spotlights, buyer education, behind-the-factory/people, and at most one in four that is a direct offer. Written for buyers, not for other manufacturers.",
+      "common_loss": "Every post is a product photo with 'Contact us for best price', or every post is a festival greeting."
+    },
+    {
+      "id": "employee_connection",
+      "points": 10,
+      "full_marks": "Staff (especially sales, export and leadership) list the company as current employer linked to this page, with matching job titles. At least a few reshare or comment on page posts each week with a line of their own. Leadership personal profiles point back to the page.",
+      "common_loss": "Employees list a misspelled, unlinked company name, so the page shows 3 employees and nobody's network ever sees a post."
+    }
+  ]
+}
